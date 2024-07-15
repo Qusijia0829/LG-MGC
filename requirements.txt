@@ -1,0 +1,8 @@
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+torchaudio==0.13.1
+timm==0.4.12
+transformers==4.15.0
+fairscale==0.4.4
+pycocoevalcap
+dalle2-pytorch==1.1.0
