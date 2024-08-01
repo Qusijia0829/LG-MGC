@@ -42,7 +42,7 @@ test.py                                    <= Testing entrance
 - https://storage.googleapis.com/sfr-vision-language-research/datasets/flickr30k_train.json
 - Download other JSON files and replace train with test and val.
 - Download diffusion model checkpoints from https://huggingface.co/laion/DALLE2-PyTorch/tree/main/prior
-- Download the constructed Flickr30K-C dataset from https://pan.baidu.com/s/1YgExXvh0TSSmPYwKMenf8A 提取码：7qnv
+
 
 ## Tasks
 
